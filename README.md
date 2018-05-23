@@ -1,1 +1,1 @@
-# polyglot-spike v2
+# polyglot-spike
