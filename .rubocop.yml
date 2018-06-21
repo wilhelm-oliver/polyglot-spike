@@ -3,3 +3,6 @@ AllCops:
   
 Layout/AccessModifierIndentation:
   Enabled: true
+
+Layout/MultilineHashBraceLayout:
+  Enabled: true
