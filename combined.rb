@@ -3,7 +3,7 @@
   b: 2
 }
 
-# bad
+# bad 
 class Plumbus
 private
   def smooth; end
