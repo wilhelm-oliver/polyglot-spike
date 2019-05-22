@@ -1,6 +1,6 @@
 # bad
 class Plumbus
-private
+  private
   def smooth; end
 end
 
