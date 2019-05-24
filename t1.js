@@ -1,9 +1,9 @@
-if (!!test)
+if (test)
 {
   //
 }
 
-if (!!test2)
+if (test2)
 {
   //
 }
